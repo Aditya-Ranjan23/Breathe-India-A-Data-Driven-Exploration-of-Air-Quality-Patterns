@@ -1,0 +1,2 @@
+# Breathe-India-A-Data-Driven-Exploration-of-Air-Quality-Patterns
+Analyzed India’s air quality data using Python to uncover pollution trends across metro cities and states. Focused on pollutant levels, visualized key patterns using Seaborn &amp; Matplotlib, and improved data cleaning and analytical skills using Pandas and NumPy. A great hands-on experience in turning raw environmental data into actionable insights!
